@@ -1,2 +1,2 @@
 # project-test
-Project managemnet/creation test 
+Project management/creation test 
